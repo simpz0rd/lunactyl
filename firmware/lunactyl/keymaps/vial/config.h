@@ -1,0 +1,14 @@
+#pragma once
+
+// Define options
+// #define TAPPING_TERM 170
+// #define PERMISSIVE_HOLD
+// #define TAPPING_TERM_PER_KEY
+
+// #define ENABLE_COMPILE_KEYCODE
+#define DYNAMIC_KEYMAP_LAYER_COUNT 8
+#define PERMISSIVE_HOLD
+// #define TAPPING_TERM_PER_KEY
+#define VIAL_KEYBOARD_UID {0x43, 0x60, 0xBD, 0x39, 0x3E, 0x3E, 0x8F, 0x48}
+#define VIAL_UNLOCK_COMBO_ROWS { 3, 3 }
+#define VIAL_UNLOCK_COMBO_COLS { 0, 9 }
